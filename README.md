@@ -1,4 +1,4 @@
-# js-skeleton
+# express-playground
 
 [![Software License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
