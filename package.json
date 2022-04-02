@@ -12,11 +12,14 @@
         "name": "Milan Miščević",
         "email": "milan.miscevic@gmail.com"
     },
-    "dependencies": {},
+    "dependencies": {
+        "express": "^4.17.3"
+    },
     "devDependencies": {
         "jest": "^27.5"
     },
     "scripts": {
         "test": "jest"
-    }
+    },
+    "main": "src/index.js"
 }
